@@ -7,11 +7,9 @@ This site is useful for Muslims and Islam.
 
 ## Features
 
-- How to divide and format the page in websites based on specific topics.
-- Using the scroll feature on the site "For beginner programmers"
-- Using all the effects of the button feature
-- Using the foot features
-- Formatting the site based on using screen measurements
+- The hadiths were divided based on "in terms of working with it".
+- Linking each section of the hadith to Islamic sites that explain the characteristics of each type of hadith.
+- Download books based on each type of hadith.
 
 ## Tech Stack
 
